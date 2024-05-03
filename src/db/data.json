@@ -1,0 +1,54 @@
+{
+  "users": [
+    {
+      "id": "r3f5",
+      "name": "mugesh@gmail.com",
+      "passwd": "mug123",
+      "urls": [
+        {
+          "title": "URL for Youtube",
+          "link": "http://192.168.1.112:3000/IvHYtYdr3",
+          "url": "https://www.youtube.com/",
+          "clicks": 8
+        },
+        {
+          "title": "Canva Template",
+          "link": "http://192.168.1.112:3000/S4er1654",
+          "url": "https://www.google.com/",
+          "clicks": 2
+        },
+        {
+          "title": "Google",
+          "link": "http://192.168.1.112:3000/FRG6AzQ4",
+          "url": "https://google.com",
+          "clicks": 2
+        },
+        {
+          "title": "Google",
+          "link": "http://192.168.1.112:3000/ncsM5LCZ",
+          "url": "https://www.viz.com/shonenjump/jujutsu-kaisen-chapter-251/chapter/41782?action=read",
+          "clicks": 1
+        }
+      ]
+    },
+    {
+      "id": "y7gr",
+      "name": "aswath@gmail.com",
+      "passwd": "asw123",
+      "urls": [
+        {
+          "title": "URL for Gmail",
+          "link": "http://192.168.1.112:3000/IvHYtY7655",
+          "url": "https://google.com",
+          "clicks": 2
+        },
+        {
+          "title": "Netlify website",
+          "link": "http://192.168.1.112:3000/S4er1p5",
+          "url": "https://netlify.com",
+          "clicks": 4
+        }
+      ]
+    }
+  ]
+}
